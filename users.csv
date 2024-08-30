@@ -1,5 +1,5 @@
 Name,Email,Password,Balance
 John Doe,email1@example.com,my_secure_password_1,0.0
 Jane Doe,email2@example.com,my_secure_password_2,15000.0
-Viktor Sharha,vsharha@outlook.com,my_password,1400.0
+Viktor,email@example.com,my_password,1400.0
 Example Account,example@example.com,example,4000.0
